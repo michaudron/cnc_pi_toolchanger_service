@@ -1,0 +1,15 @@
+{
+  "name": "relays",
+  "version": "1.0.0",
+  "description": "RelayService",
+  "main": "relays",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.3.0",
+    "onoff": "^5.0.1"
+  }
+}
